@@ -153,7 +153,7 @@ header .boton-telefono a:hover {
   height: 100%;
   background: rgb(71, 245, 123);
   position: absolute;
-  z-index: 1;
+ 
   top: -88px;
   left: 0;
   transition: .3s ease-in-out all;
