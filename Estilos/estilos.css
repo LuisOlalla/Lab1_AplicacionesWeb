@@ -186,8 +186,8 @@ header .boton-telefono a:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    } 
   
-   .copyright > p{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-     font-size: 12px;
-     color: white;
-   }
+.copyright > p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 12px;
+  color: white;
+}
