@@ -143,6 +143,8 @@ header .boton-telefono a:hover {
   border-radius: 5px;
   position: relative;
   overflow: hidden;
+  z-index:-1;
+  
 }
 .boton.espe:hover::after{
   top:0;
@@ -153,14 +155,14 @@ header .boton-telefono a:hover {
   height: 100%;
   background: rgb(71, 245, 123);
   position: absolute;
- 
+  z-index: -1;
   top: -88px;
   left: 0;
   transition: .3s ease-in-out all;
 }
 .boton span {
   position: relative;
-  z-index: 2;
+  z-index: -1;
   transition: .3s ease all;
 }
 /*Footer*/
