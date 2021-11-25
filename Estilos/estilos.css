@@ -130,7 +130,7 @@ header .boton-telefono a:hover {
 .boton{
   width: 60%;
   height: 40px;
-  background: #141414;
+  background: green;
   color: #fff;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   justify-content: center;
