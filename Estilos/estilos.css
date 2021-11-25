@@ -127,10 +127,13 @@ header .boton-telefono a:hover {
 #titulo_btn{
   color: rgb(71, 245, 123) ;
 }
+#titulo_video{
+  color: #292828;
+}
 .boton{
   width: 60%;
   height: 40px;
-  background: green;
+  background: rgb(71, 245, 123);
   color: #fff;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   justify-content: center;
@@ -164,6 +167,23 @@ header .boton-telefono a:hover {
   position: relative;
   z-index: -1;
   transition: .3s ease all;
+}
+/*Contenedor Video*/
+.video{
+  width: 100%;
+  height: 50%;
+  background-image: url(../Imagenes/fondo_verde.jpg) ;
+  padding: 10px;
+  padding-left: 20px;
+}
+/*Tabla de contenido*/
+.tabla{
+  width: 100%;
+  height: 60%;
+}
+
+.tabla_contenida{
+  border-spacing: 0;
 }
 /*Footer*/
 .footer{
